@@ -1,15 +1,15 @@
 {
-  "main.css": "/TodoListApp-ReactJS/static/css/main.570503bd.chunk.css",
-  "main.js": "/TodoListApp-ReactJS/static/js/main.d015af18.chunk.js",
-  "main.js.map": "/TodoListApp-ReactJS/static/js/main.d015af18.chunk.js.map",
-  "static/js/1.9594a6bb.chunk.js": "/TodoListApp-ReactJS/static/js/1.9594a6bb.chunk.js",
-  "static/js/1.9594a6bb.chunk.js.map": "/TodoListApp-ReactJS/static/js/1.9594a6bb.chunk.js.map",
-  "static/js/2.2997a320.chunk.js": "/TodoListApp-ReactJS/static/js/2.2997a320.chunk.js",
-  "static/js/2.2997a320.chunk.js.map": "/TodoListApp-ReactJS/static/js/2.2997a320.chunk.js.map",
-  "runtime~main.js": "/TodoListApp-ReactJS/static/js/runtime~main.67e1a71e.js",
-  "runtime~main.js.map": "/TodoListApp-ReactJS/static/js/runtime~main.67e1a71e.js.map",
-  "static/css/main.570503bd.chunk.css.map": "/TodoListApp-ReactJS/static/css/main.570503bd.chunk.css.map",
-  "index.html": "/TodoListApp-ReactJS/index.html",
-  "precache-manifest.d5f7b7658e192636681549a0152ec21c.js": "/TodoListApp-ReactJS/precache-manifest.d5f7b7658e192636681549a0152ec21c.js",
-  "service-worker.js": "/TodoListApp-ReactJS/service-worker.js"
+  "main.css": "/To-Do-List-App/static/css/main.570503bd.chunk.css",
+  "main.js": "/To-Do-List-App/static/js/main.d015af18.chunk.js",
+  "main.js.map": "/To-Do-List-App/static/js/main.d015af18.chunk.js.map",
+  "static/js/1.9594a6bb.chunk.js": "/To-Do-List-App/static/js/1.9594a6bb.chunk.js",
+  "static/js/1.9594a6bb.chunk.js.map": "/To-Do-List-App/static/js/1.9594a6bb.chunk.js.map",
+  "static/js/2.2997a320.chunk.js": "/To-Do-List-App/static/js/2.2997a320.chunk.js",
+  "static/js/2.2997a320.chunk.js.map": "/To-Do-List-App/static/js/2.2997a320.chunk.js.map",
+  "runtime~main.js": "/To-Do-List-App/static/js/runtime~main.dc5207aa.js",
+  "runtime~main.js.map": "/To-Do-List-App/static/js/runtime~main.dc5207aa.js.map",
+  "static/css/main.570503bd.chunk.css.map": "/To-Do-List-App/static/css/main.570503bd.chunk.css.map",
+  "index.html": "/To-Do-List-App/index.html",
+  "precache-manifest.2605d42e7a2ca185941c1ff7ae47ad48.js": "/To-Do-List-App/precache-manifest.2605d42e7a2ca185941c1ff7ae47ad48.js",
+  "service-worker.js": "/To-Do-List-App/service-worker.js"
 }
